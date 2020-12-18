@@ -27,3 +27,7 @@ Dark Red, Orange , Green points represents risk to human in Bird’s eye view.
 Dark Red: High Risk, Orange: Low Risk and Green: No Risk.
 
 Red, Yellow lines between two humans in output tells they are violating social distancing rules.
+
+# Output
+
+![Output](https://user-images.githubusercontent.com/44723903/102655150-d12a2780-4197-11eb-91a0-7257f10de0c5.gif)
