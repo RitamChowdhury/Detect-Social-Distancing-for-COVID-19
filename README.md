@@ -18,8 +18,8 @@ argparse
 
 # Working
 
--Dark Red, Orange , Green points represents risk to human in Bird’s eye view. 
+Dark Red, Orange , Green points represents risk to human in Bird’s eye view. 
 
 Dark Red: High Risk, Orange: Low Risk and Green: No Risk.
 
--Red, Yellow lines between two humans in output tells they are violating social distancing rules.
+Red, Yellow lines between two humans in output tells they are violating social distancing rules.
