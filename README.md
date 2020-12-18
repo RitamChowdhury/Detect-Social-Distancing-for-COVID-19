@@ -9,7 +9,8 @@ Get the areal time analytics such as:
   
 # Input
 
-   
+![Input](https://user-images.githubusercontent.com/44723903/102654898-61b43800-4197-11eb-8280-868c8b970c42.gif)
+  
 # Requirements:
 Python 3.8
 
